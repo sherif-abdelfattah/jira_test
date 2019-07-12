@@ -1,2 +1,2 @@
 # jira_test
-Test repo
+Test repo to test Jira integration with Git
